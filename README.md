@@ -4,7 +4,7 @@ A simple Hello World project to introduce Java development with **Maven**, **JUn
 
 ## Purpose
 
-This project is a starting point for PROG1400 students to get familiar with:
+This project is a starting point for students to get familiar with:
 
 - Structuring a Java project using Maven
 - Writing and running unit tests with JUnit 5
